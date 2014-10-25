@@ -1,22 +1,14 @@
-INTRODUCTION
+##INTRODUCTION
 
 This "README" describes how to use the script "run_analysis" to get the tidy data set mentioned in Step 5.
 
-STEPS
+##STEPS
 
 1. Download the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 2. Unzip the zip file.
 
-3. From the zip file transfer the following files directly into your working directory. 
-A.subject_train.txt
-B.y_train.txt
-C.X_train.txt
-D.subject_test.txt
-E.y_test.txt
-F.X_test.txt
-G.features.txt
-(A total of 7 files)
+3. From the zip file transfer the following files (subject_train.txt, y_train.txt, X_train.txt, subject_test.txt, y_test.txt, X_test.txt, features.txt) directly into your working directory. There should be 7 files in total.
 
 4. DO NOT put them in any subfolders if not the script will not work. (you can of course adjust the file path in the script to fix this on your own)  
 
