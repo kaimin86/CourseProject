@@ -6,8 +6,7 @@
 
 2. I extracted only measurements on the mean and standard deviation for each measurement
 
-3. For each measurement, I computed the mean for each activity carried out by each subject.
-For example: The first value in the "tBodyAcc-mean()-X" column corresponds to the mean value of that measurement for Subject 1 when he was laying down 
+3. For each measurement, I computed the mean for each activity carried out by each subject. For example: The first value in the "tBodyAcc-mean()-X" column corresponds to the mean value of that measurement for Subject 1 when he was laying down 
 
 4. Final data set contains 81 variables and 180 observations
 
